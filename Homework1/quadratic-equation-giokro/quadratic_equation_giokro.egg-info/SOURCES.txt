@@ -1,0 +1,8 @@
+README.md
+setup.py
+quadratic_equation/Quad.py
+quadratic_equation/__init__.py
+quadratic_equation_giokro.egg-info/PKG-INFO
+quadratic_equation_giokro.egg-info/SOURCES.txt
+quadratic_equation_giokro.egg-info/dependency_links.txt
+quadratic_equation_giokro.egg-info/top_level.txt

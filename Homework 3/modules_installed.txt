@@ -1,0 +1,17 @@
+# I forgot about the deadline for the modules, but since I wrote a bit I still included it here
+
+sudo apt-get install libproj-dev proj-data proj-bin
+sudo apt-get install libgeos-dev
+sudo pip install cython
+pip install cartopy
+
+Error: No module named scipy
+pip3 install scipy
+
+Error: Geometry must be a Point or LineString
+pip3 uninstall shapely
+pip3 install shapely --no-binary shapely
+
+# Finally the first map was drawn
+
+# matplotlib was already installed probably with pip3 as well
